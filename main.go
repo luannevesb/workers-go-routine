@@ -11,6 +11,7 @@ import (
 	"github.com/luannevesb/workers-go-routine/model"
 )
 
+//Here you can change the number of workers(go routines)
 var numberOfWorkers = 50
 
 func main() {
